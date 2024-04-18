@@ -54,4 +54,4 @@ if __name__ == "__main__":
 
 """this algorithm shows the peculiar way of depreciation based on the how much you spend,
 you may not realise but even if you spend the smallest amount , it changes the true value and depreciates it.
-what happens when the depriciation is recurive? means it itself changes the Xenium value, find out!!!"""
+what happens when the depriciation is recursive? means it itself changes the Xenium value, find out!!!"""
