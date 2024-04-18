@@ -1,6 +1,6 @@
 # XENIUM-ALGORITHM
 
-(Assume XeniumCoin as Cryptocurrency - I'm working on it)
+(Assume XeniumCoin as Cryptocurrency)
 
 Let's assume you have initially 10 xenium coins, call it iv (initial value). 
 for each xenium coin you spend (sv), the value of the one last xenium coin depreciates in a way, 
