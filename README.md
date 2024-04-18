@@ -11,5 +11,5 @@ Means 1 became 0 .
 
 This algorithm shows the peculiar way of depreciation based on the how much you spend,
 you may not realise but even if you spend the smallest amount , it changes the true value and depreciates it.
-what happens when the depriciation is recurive? means it itself changes the Xenium value,
+what happens when the depriciation is recursive? means it itself changes the Xenium value,
 It is more complex and i'm working on it.
